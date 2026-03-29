@@ -55,4 +55,4 @@ Hệ thống được thiết kế với 8 bảng quan hệ chặt chẽ:
 ## ⚙️ Hướng dẫn cài đặt
 1. Clone dự án về máy:
    ```bash
-   git clone [https://github.com/TênCủaEm/polycake-backend.git](https://github.com/TênCủaEm/polycake-backend.git)
+   git clone [https://github.com/hoaibao1611/polycake-backend.git](https://github.com/hoaibao1611/polycake-backend.git)
