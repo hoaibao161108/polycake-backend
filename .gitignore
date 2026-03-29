@@ -1,0 +1,15 @@
+# Bỏ qua thư mục build nặng nề
+target/
+
+# Bỏ qua các file cấu hình rác của Eclipse
+.classpath
+.project
+.settings/
+
+# Bỏ qua các file thư viện đã đóng gói
+*.jar
+*.war
+
+# Bỏ qua file rác của hệ điều hành
+.DS_Store
+Thumbs.db
